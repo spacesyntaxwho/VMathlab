@@ -1,3 +1,4 @@
+Disclaimer-This Project is made using AI
 <<<<<<< HEAD
 # React + Vite
 
