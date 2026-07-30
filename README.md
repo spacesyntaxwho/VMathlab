@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 =======
 # VMathlab
 >>>>>>> 061520caf0d803870350bb4abcf9556aae4272c3
+deploy using vercel
+>>>>>>> 
